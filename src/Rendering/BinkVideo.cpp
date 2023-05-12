@@ -2,7 +2,7 @@
 #include <thread>
 #include <chrono>
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 #include "Rendering/BinkVideo.h"
 #include "Audio/Audio.h"

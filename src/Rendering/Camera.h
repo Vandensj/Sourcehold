@@ -1,7 +1,7 @@
 #pragma once
 
 #include <cinttypes>
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 namespace Sourcehold {
 namespace Rendering {

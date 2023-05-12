@@ -1,7 +1,7 @@
 #pragma once
 
 #include <string>
-#include <entt/entt.hpp>
+#include "../../thirdparty/entt/src/entt/entt.hpp"//include <entt/entt.hpp>
 
 #include "System/Logger.h"
 #include "ECS/Component/Component.h"

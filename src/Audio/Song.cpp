@@ -1,7 +1,7 @@
 #include "Audio/Song.h"
 #include "Audio/Audio.h"
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 
 using namespace Sourcehold::Audio;
 using namespace Sourcehold::System;

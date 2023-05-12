@@ -1,5 +1,5 @@
-#include <entt/entt.hpp>
-#include <SDL.h>
+#include "../../thirdparty/entt/src/entt/entt.hpp"//<entt/entt.hpp>
+#include <SDL2/SDL.h>
 
 #include "System/Logger.h"
 

@@ -1,7 +1,7 @@
 #pragma once
 
 #include <memory>
-#include <entt/entt.hpp>
+#include "../../thirdparty/entt/src/entt/entt.hpp"//#include <entt/entt.hpp>
 
 #include "GameMap.h"
 #include "GameManager.h"

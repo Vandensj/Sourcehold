@@ -1,6 +1,6 @@
 #pragma once
 
-#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <cstdint>
 
 #include "Events/Event.h"

@@ -4,8 +4,8 @@
 #include <string>
 #include <cstdio>
 
-#include <al.h>
-#include <alc.h>
+#include <AL/al.h>
+#include <AL/alc.h>
 
 #include "System/filesystem.h"
 
